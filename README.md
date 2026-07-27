@@ -28,8 +28,6 @@
   <img src="https://raw.githubusercontent.com/Icecreambobcat/Icecreambobcat/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
   </picture>
   <picture>
-  <img src="https://raw.githubusercontent.com/Icecreambobcat/Icecreambobcat/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  </picture>
 </div>
 
 ###
